@@ -53,8 +53,10 @@
 
 ### ⚡ Recent Activity
 
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 
 ### 📈 GitHub Analytics
 
