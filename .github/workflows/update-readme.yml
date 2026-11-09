@@ -1,0 +1,23 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    # Jalankan otomatis setiap 1 jam sekali
+    - cron: '0 * * * *'
+  workflow_dispatch: # Memungkinkan untuk di-trigger manual via tombol
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Update README Activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: update recent activity"
+          MAX_LINES: 5
