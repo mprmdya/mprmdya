@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Hi+there!+I'm+dyyy1577;Web+%26+Software+Developer;Laravel%2C+Node.js+%26+Godot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Hi+there!+I'm+mprmdya;Web+%26+Software+Developer;Laravel%2C+Node.js+%26+Godot" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/dyyy1577"><img src="https://img.shields.io/github/followers/dyyy1577?logo=github&style=for-the-badge&color=23272d&labelColor=161b22" alt="Followers" /></a>
-  <a href="https://github.com/dyyy1577?tab=repositories"><img src="https://img.shields.io/github/stars/dyyy1577?logo=github&style=for-the-badge&color=23272d&labelColor=161b22" alt="Stars" /></a>
+  <a href="https://github.com/mprmdya"><img src="https://img.shields.io/github/followers/mprmdya?logo=github&style=for-the-badge&color=23272d&labelColor=161b22" alt="Followers" /></a>
+  <a href="https://github.com/mprmdya?tab=repositories"><img src="https://img.shields.io/github/stars/mprmdya?logo=github&style=for-the-badge&color=23272d&labelColor=161b22" alt="Stars" /></a>
 </p>
 
 ---
@@ -43,11 +43,11 @@
 
 ### 📂 Featured Repositories
 
-- 🐄 **[ternak](https://github.com/dyyy1577/ternak)** - Web application developed using Blade & Laravel ecosystem.
-- 💨 **[Sikudara](https://github.com/dyyy1577/Sikudara)** - Web UI & styling project built with CSS.
-- 📸 **[photobooth](https://github.com/dyyy1577/photobooth)** - Interactive photobooth project built with HTML/JS.
-- 🎮 **[Godot](https://github.com/dyyy1577/Godot)** - Game development explorations and scripts in Godot Engine.
-- 📁 **[dyy](https://github.com/dyyy1577/dyy)** & **[file](https://github.com/dyyy1577/file)** - Web layouts, HTML templates, and utility repositories.
+- 🐄 **[ternak](https://github.com/mprmdya/ternak)** - Web application developed using Blade & Laravel ecosystem.
+- 💨 **[Sikudara](https://github.com/mprmdya/Sikudara)** - Web UI & styling project built with CSS.
+- 📸 **[photobooth](https://github.com/mprmdya/photobooth)** - Interactive photobooth project built with HTML/JS.
+- 🎮 **[Godot](https://github.com/mprmdya/Godot)** - Game development explorations and scripts in Godot Engine.
+- 📁 **[dyy](https://github.com/mprmdya/dyy)** & **[file](https://github.com/mprmdya/file)** - Web layouts, HTML templates, and utility repositories.
 
 ---
 
@@ -61,12 +61,12 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-eight-sooty.vercel.app/api?username=dyyy1577&show_icons=true&theme=tokyonight&hide_border=true" alt="dyyy1577 GitHub Stats" height="165" />
-  <img src="https://readme-eight-sooty.vercel.app/api/top-langs/?username=dyyy1577&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://readme-eight-sooty.vercel.app/api?username=mprmdya&show_icons=true&theme=tokyonight&hide_border=true" alt="mprmdya GitHub Stats" height="165" />
+  <img src="https://readme-eight-sooty.vercel.app/api/top-langs/?username=mprmdya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyyy1577&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mprmdya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
